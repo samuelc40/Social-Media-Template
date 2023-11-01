@@ -361,27 +361,27 @@ main .container .left .profile{
 }
 
 .middle .stories .story:nth-child(2){
-    background: url('Images/page2.jpg') no-repeat center center/cover;
+    background: url('./Images/page2.jpg') no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(3){
-    background: url('Images/page3.jpg') no-repeat center center/cover;
+    background: url('./Images/page3.jpg') no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(4){
-    background: url('Images/page4.jpg') no-repeat center center/cover;
+    background: url('./Images/page4.jpg') no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(5){
-    background: url('Images/page5.jpg') no-repeat center center/cover;
+    background: url('./Images/page5.jpg') no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(6){
-    background: url('Images/page6.jpg') no-repeat center center/cover;
+    background: url('./Images/page6.jpg') no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(7){
-    background: url('Images/page7.jpg') no-repeat center center/cover;
+    background: url('./Images/page7.jpg') no-repeat center center/cover;
 }
 
 .middle .story .profile-picture{
